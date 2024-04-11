@@ -1,0 +1,101 @@
+
+.btnbook{
+    width: 150px;
+    background-color: #5BBCFF;
+    height: 50px;
+    font-weight: 700;
+    color: white;
+}
+.btnbook:hover{
+    background-color: #2698e9;
+color: white;
+}
+.colorwhatsapp{
+    color: #074173;
+}
+.messgewatsappbtn{
+    width: auto;
+    background-color: #136fb1;
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 40px;
+    color: white;
+}
+.messgewatsappbtn:hover{
+    background-color: #1a93e9;
+    color: white;
+}
+#map-iframe {
+    width: 100%;
+    height: 400px;
+    border: 0; /* Remove border */
+  }
+   td,th,tr{
+    
+    border: 2px solid black;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  }
+  td{
+    background-color: #1a93e9 !important;
+    color: white !important;
+
+  }
+  th{
+    background-color: #DD5746 !important;
+    color: white !important;
+    font-size: 20px;
+    font-weight: bolder;
+  }
+  table{
+    margin-top: 20px;
+  }
+  .headingcolor{
+    color: #DD5746;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .headingsecond{
+    color: #1679AB;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* Style for WhatsApp icon */
+  #whatsapp-icon {
+    position: fixed;
+    left: 10px; /* Adjust as needed */
+    bottom: 10px; /* Adjust as needed */
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  #call-icon {
+    position: fixed;
+    right: 10px; /* Adjust as needed */
+    bottom: 10px; /* Adjust as needed */
+    width: 50px;
+    height: 50px;
+    background-color: green;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  .carname{
+
+    padding: 10px;
+    color: black !important;
+color: #0C0C0C !important;
+}
